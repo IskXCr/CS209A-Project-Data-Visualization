@@ -8,7 +8,8 @@
 
 **Frontend & Backend: 方嘉玮 12110804**
 
-
+## Score
+Full score exceeded.
 
 ## Overview
 
